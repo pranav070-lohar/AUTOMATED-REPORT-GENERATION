@@ -25,3 +25,4 @@ To make it reusable, the script accepted any file with the expected format and d
 This task was valuable in learning how to automate repetitive reporting tasks—essential in fields like data entry, administration, HR, and analytics. It also introduced the importance of formatting, structuring, and delivering output that others can read and interpret effectively.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/50b65125-aeb9-4b3d-b291-e5b3cee1f09a)
